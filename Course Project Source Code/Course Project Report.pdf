@@ -1,0 +1,1065 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Suhani Alatkar)
+/CreationDate (D\07220261120194739\05305\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261120194739\05305\04700\047)
+/Subject (InternTrack internship application and tracking portal)
+/Title (Agentic AI Course Project Report \055 Suhani Alatkar)
+/Trapped (\057False)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 11 0 R 14 0 R 18 0 R 22 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Annots [ 5 0 R ]
+/Contents 6 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Nownev)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 225.4331 442.7278 297.4373 453.7278 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/Length 2784
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+Q
+q
+1 0 0 1 74.0315 694.1575 cm
+Q
+q
+1 0 0 1 74.0315 675.1575 cm
+q
+.376471 .447059 .52549 rg
+BT 1 0 0 1 0 6 Tm /F1 13 Tf 19 TL 134.7643 0 Td (COURSE PROJECT REPORT) Tj T* -134.7643 0 Td ET
+Q
+Q
+q
+1 0 0 1 74.0315 655.315 cm
+Q
+q
+1 0 0 1 74.0315 583.315 cm
+q
+BT 1 0 0 1 0 43 Tm 77.7798 0 Td 36 TL /F2 29 Tf .078431 .176471 .305882 rg (Agentic AI Internship) Tj  T* -57.217 0 Td (Application & Tracking Portal) Tj T* -20.5628 0 Td ET
+Q
+Q
+q
+1 0 0 1 74.0315 557.1417 cm
+Q
+q
+1 0 0 1 74.0315 538.1417 cm
+q
+.376471 .447059 .52549 rg
+BT 1 0 0 1 0 6 Tm /F1 13 Tf 19 TL 49.6078 0 Td (InternTrack | A multi-agent system for the internship lifecycle) Tj T* -49.6078 0 Td ET
+Q
+Q
+q
+1 0 0 1 74.0315 489.9528 cm
+Q
+q
+1 0 0 1 96.37795 344.9528 cm
+q
+.917647 .94902 .968627 rg
+n 0 145 119.0551 -145 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 125 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Submitted by) Tj T* ET
+Q
+Q
+q
+1 0 0 1 129.0551 125 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Suhani Alatkar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 96 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (GitHub profile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 129.0551 96 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (github.com/Nownev) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 67 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Project area) Tj T* ET
+Q
+Q
+q
+1 0 0 1 129.0551 67 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Agentic Artificial Intelligence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 38 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Project name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 129.0551 38 cm
+q
+BT 1 0 0 1 0 2.8 Tm 11 TL /F1 8.2 Tf .14902 .203922 .278431 rg (InternTrack: Internship Application & Tracking Portal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 9 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Report date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 129.0551 9 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (20 November 2026) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.796078 .843137 .886275 RG
+.6 w
+n 0 145 m 402.5197 145 l S
+n 0 0 m 402.5197 0 l S
+n 0 0 m 0 145 l S
+n 402.5197 0 m 402.5197 145 l S
+.35 w
+n 0 116 m 402.5197 116 l S
+n 0 87 m 402.5197 87 l S
+n 0 58 m 402.5197 58 l S
+n 0 29 m 402.5197 29 l S
+n 119.0551 0 m 119.0551 145 l S
+Q
+Q
+Q
+q
+1 0 0 1 74.0315 282.5906 cm
+Q
+q
+1 0 0 1 74.0315 254.5906 cm
+q
+.376471 .447059 .52549 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (Prepared from the project source code and repository documentation. Course, institution, and supervisor details were not) Tj T* (present in the supplied workspace.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+72 249 440 34 re
+f*
+Q
+
+endstream
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2101
+>>
+stream
+Gatm;9lo&I&A@sBlr!.@%)G`E2qN3+Zq]mJC/;B*,UB'1$&'Mh.+99q[ictoR^c,@N5q6>!jQ\$^3p@po'ms[hn100EBu6a$5*@k<[8kBU;cSC]sr<:iQ\.IO#-@ho,ruZnhLfS5tlJe?dt=a4[0W87<;8KkLl@TMM'CdU.?8rQ1XcZfRM3$B3m@[mY,?fV1Q?nL_0l3PYndLojWH]NtD`c-Nl"NR_3sQ\A!<r\@]EMNT_IYX.)?BhHn[uh9E.T<suUO^:h']Hq0+0C%4=k)Jp8qJX9u*38#r%Xo/>nmh_m!+$5Ga02-rt>VROR3fcVC('FK]O29*ZDP(Cpqo-a/7)jKWNmu24d^G.ZgQR_k$CZY<32hWg59MWK_^s`l*lE9I/G=h&!^t)3S2&&Q;8P=)4G(8X<DC.,LjRR9,X&0hCalJ98@u(l7W1k9\#%A]X%c<o/r2gNlZu90e$QEVFsGajOhr/T<OY#eb?*13I&4om?%HYc/:ENuGk5$J_LWOm.eQEq]=_)a]kSuTVC?U=>AS)a.bCuU*s'W?Yd?.pR4Vq4C>J<Vco*fnWnC*<Q$TR!]#<Xn)#ahrRIBt)4Gjc,@b[i`CtpN78n/oQBr?W6er@!/OS.+CT^Zg-?X9+HD0:D/4,8U%)1f`l?)7h]>CQSTK^dD(U?TiU0LaDnD-L0+C<A1[g#O(p0h>g+LGrGfA$m@`dM`f_b2#n)VF(@qYECb.$l)&CeCIC@M@_$f'\paCf-TV7)H2gCF/1pp8l_`+6HZIX/b8&239Y-VW04:lWqW3`gW$TIa/eYUYHMj$I7I<qW!0.2>@R\CV+YqP4cA;`Fs1)3fEZ.UYTBGf?%]hjf,_aqfO$[MFXW;Dgk)7ml5Ii[>KU22c>ugWhKQ%i=e<R&'Mss(l;4X2"1"IiCGRci^K']rjU+F]Z"OgaH?4.]KG`E81TkjF$fsP+[;hLm]/F^O!S?\M2bW:)OE/t(1_[V#N=n4J#SN#C,Xnd&h7b7B*VeF=I3Ug@n[Yosp*#n&VKS$a,Q!)qm(D/f1SMuZX.n$Jg$765Po[e@U&:kMFDM)nU+374dY98,e+F.1bt;KSL[%X);In[6ca/jhhonn#Cnkke;fqiFgRjEFV9,)$C@[UmL3Oq:`Q2/.pFIe"CNb"O/R:T.npqejXjfU1:hgHmTlH.1A?@^=G@b:3($m?..2@`'Dj9je1E-XJ5>"6Yr5AP[?ZV6LoKg*u3.>aG/(JUF)q_*/9-9G106[QTgn3:@0CRWM</Nis]Uo:g"?cl5`C>DTaD_t03BGb9JDu$aC7cV#]+u5e<E#kB1NW'arP2R(Z8@WKDTa7.ZKoe>g5?UF)]a=]Y]hh9nT9s`dC@4&N_-_8O_NCPefQmumXNN)Kdc9m'#e9QN2/DdUS7G"/jC@h'*_'P,9'WVqamLT'n"jd,(KUR15u/ZA15)Abl"9/C("PV7bH=S9XWA-(ap)Cks^HsGC$ReW7qcHZ<h`GFB1DC5L(F5mQ.:b<\t_;jfPtgAj/t'83B+o`@t+HW*H=AUY++[GqP(-S3qoXfF,(\\A<QC&^C06WYgF,,g=`FWZYkacUVZ1%7AooCJ;B,i>!Vu_V&8373bn$BP^$X9MV:_?4VYjOdHr#h$@u,$pJlOc-t%'j'XF_HL57kR#]K`XKoO:SsM]el9tZq"Tsg`nZl+/]koL?.X.ZgVON%KTuEVD'1Q=]al$l)VLIe@B?mb-V62BD['LsHT29LY4\>eTYpF[gO2fQ*TEge!p3Pc;;QB^Qk+m*&V+S>ZWpEoAirm:XSC?[&7HI(acFm+,(USX.27#.1@oO.T)8*_85OoDn<s9k.BiBIMH%l$N%Y')TaZGk1rA9T9QRSVCPk`<r5<q&t-1u!XoN&+[DF6kENrW.p=EZS!4SE1^2=C+/f`+hYj4YT!:Fora8$Jp#7M;YD(D.d,]4%#8@>&*Z*E(3&NKgjKN$ORi\3^(;&oS!aNGh=^9>p@tF;V6W>K&:(pQpg042khX'F!ATTrZ(RlVk9pIB2bUh#<`sV=Df=aJ?R0Hq"kqqpnp*nq@BOO.euQ=,!d@-Ol]B7Qs$:k*>nEQ/-sbP/R\;Da0?h?2P("P6Eu~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 7 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 16 0 R
+/F1-1 17 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 6535
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.847059 .882353 .913725 RG
+n 68.0315 48.18898 m 527.2441 48.18898 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .447059 .52549 rg
+BT 1 0 0 1 68.0315 31.1811 Tm (INTERNTRACK  |  COURSE PROJECT REPORT) Tj T* ET
+BT 1 0 0 1 522.7961 31.1811 Tm (3) Tj T* ET
+Q
+q
+1 0 0 1 74.0315 752.3622 cm
+q
+.078431 .176471 .305882 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (3. System Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 680.3622 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 50.5 Tm /F1 9.5 Tf 15 TL .326569 Tw (The application is organized around a FastAPI portal, a React frontend, an agent runtime, and a separate) Tj T* 0 Tw .374578 Tw (MCP server. Requests and background events enter through a gateway and become tracked runs. Agent) Tj T* 0 Tw .492107 Tw (methods execute as timed steps; allowed tools are called through the MCP client. Persistent records and) Tj T* 0 Tw (audit events are stored in SQLite, with student memory supporting personalization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.0315 467.3622 cm
+q
+.078431 .176471 .305882 rg
+n 0 205 459.2126 -25 re f*
+1 1 1 rg
+n 0 180 459.2126 -36 re f*
+.917647 .94902 .968627 rg
+n 0 144 459.2126 -36 re f*
+1 1 1 rg
+n 0 108 459.2126 -36 re f*
+.917647 .94902 .968627 rg
+n 0 72 459.2126 -36 re f*
+1 1 1 rg
+n 0 36 459.2126 -36 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 187 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Layer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 118.5512 187 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Responsibility) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 8 162 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Frontend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 118.5512 151 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.2 Tf 11 TL (Role-based web views for students, faculty coordinators, industry mentors, and) Tj T* (administrators.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 126 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Portal/API) Tj T* ET
+Q
+Q
+q
+1 0 0 1 118.5512 115 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.2 Tf 11 TL (FastAPI endpoints, workflow coordination, policy and permission checks, and record) Tj T* (management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 90 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Agent runtime) Tj T* ET
+Q
+Q
+q
+1 0 0 1 118.5512 79 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.2 Tf 11 TL (Gateway runs, named agent steps, skill loading, session context, memory, and audit) Tj T* (events.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 54 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (MCP server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 118.5512 43 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.2 Tf 11 TL (Tool interface for college documents, resume extraction, SQLite queries, postings, and) Tj T* (public information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+BT 1 0 0 1 0 13.8 Tm 11 TL /F1 8.2 Tf .14902 .203922 .278431 rg (Persistence &) Tj T* (integrations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 118.5512 18 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (SQLite records and logs, local documents, and external job-board or information sources.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.796078 .843137 .886275 RG
+.35 w
+n 0 205 m 459.2126 205 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 205 l S
+n 459.2126 0 m 459.2126 205 l S
+n 0 180 m 459.2126 180 l S
+n 0 144 m 459.2126 144 l S
+n 0 108 m 459.2126 108 l S
+n 0 72 m 459.2126 72 l S
+n 0 36 m 459.2126 36 l S
+n 110.5512 0 m 110.5512 205 l S
+Q
+Q
+Q
+q
+1 0 0 1 74.0315 459.3622 cm
+Q
+q
+1 0 0 1 74.0315 434.3622 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (3.1 Agent Roles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 398.3622 cm
+q
+BT 1 0 0 1 0 20.5 Tm .406315 Tw 15 TL /F2 9.5 Tf .14902 .203922 .278431 rg (Discovery & eligibility:) Tj /F1 9.5 Tf ( Collects and ranks opportunities; applies versioned rules to check academic and) Tj T* 0 Tw (employer criteria.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 360.3622 cm
+q
+BT 1 0 0 1 0 20.5 Tm 1.807383 Tw 15 TL /F2 9.5 Tf .14902 .203922 .278431 rg (Application & resume:) Tj /F1 9.5 Tf ( Prepares application materials and parses resume evidence into skills, roles,) Tj T* 0 Tw (projects, and suggestions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 322.3622 cm
+q
+BT 1 0 0 1 0 20.5 Tm .90346 Tw 15 TL /F2 9.5 Tf .14902 .203922 .278431 rg (Approval & progress:) Tj /F1 9.5 Tf ( Checks workflow submissions, supports authorized decisions, tracks milestones,) Tj T* 0 Tw (and identifies delays or workload issues.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 284.3622 cm
+q
+BT 1 0 0 1 0 20.5 Tm 1.247963 Tw 15 TL /F2 9.5 Tf .14902 .203922 .278431 rg (Evaluation:) Tj /F1 9.5 Tf ( Drafts rubric-based evaluation support; the documented design computes marks in Python) Tj T* 0 Tw (and requires human approval for publication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 246.3622 cm
+q
+BT 1 0 0 1 0 20.5 Tm 1.438827 Tw 15 TL /F2 9.5 Tf .14902 .203922 .278431 rg (Assistant, panel & research:) Tj /F1 9.5 Tf ( Supports student questions, parallel expert review, and evidence-based) Tj T* 0 Tw (company briefings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 208.3622 cm
+q
+BT 1 0 0 1 0 20.5 Tm .447238 Tw 15 TL /F2 9.5 Tf .14902 .203922 .278431 rg (Policy & operations:) Tj /F1 9.5 Tf ( Supports tested policy-rule drafts and diagnoses selected system issues subject to) Tj T* 0 Tw (approval.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 183.3622 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (3.2 Typical Workflow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 102.3622 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 65.5 Tm /F1 9.5 Tf 15 TL -0.001893 Tw (A student profile and resume feed opportunity matching and eligibility checks. The student may prepare an) Tj T* 0 Tw 1.781256 Tw (application, after which an offer can enter a coordinator approval flow for an NOC. Weekly logs feed) Tj T* 0 Tw 1.431793 Tw (progress tracking. At completion, the evaluation agent prepares a rubric-based draft for review and an) Tj T* 0 Tw .954756 Tw (authorized human decides the final grade. The runtime links these events to a tracked record and audit) Tj T* 0 Tw (trail.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+BT
+/F1-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 76 656 Tm
+(Layer) Tj
+T*
+ET
+BT
+1 0 0 1 182 656 Tm
+(Responsibility) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+0.078431 0.176471 0.305882 rg
+n
+68 645 465 25 re
+f*
+1 1 1 rg
+BT
+/F1-1 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 76 653 Tm
+(Layer) Tj
+T*
+ET
+BT
+1 0 0 1 182 653 Tm
+(Responsibility) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 20 0 R
+/F1-1 21 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 7932
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.847059 .882353 .913725 RG
+n 68.0315 48.18898 m 527.2441 48.18898 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .447059 .52549 rg
+BT 1 0 0 1 68.0315 31.1811 Tm (INTERNTRACK  |  COURSE PROJECT REPORT) Tj T* ET
+BT 1 0 0 1 522.7961 31.1811 Tm (4) Tj T* ET
+Q
+q
+1 0 0 1 74.0315 752.3622 cm
+q
+.078431 .176471 .305882 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (4. Implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 665.3622 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 65.5 Tm /F1 9.5 Tf 15 TL .526307 Tw (The repository implements the portal in Python and React. The backend is organized into agent modules) Tj T* 0 Tw 5.856327 Tw (and supporting modules for runtime, graph routing, policy, memory, database access, MCP) Tj T* 0 Tw .754578 Tw (communication, and guardrails. Agent skills are stored as Markdown files and loaded into prompts when) Tj T* 0 Tw 2.714971 Tw (their owning agents run. The MCP server uses the Python SDK and communicates over standard) Tj T* 0 Tw (input/output; the portal client performs initialization, tool discovery, and tool calls.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 640.3622 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (4.1 Agentic AI and Orchestration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 574.3622 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 50.5 Tm /F1 9.5 Tf 15 TL .753221 Tw (The system differentiates an agent workflow from a single chatbot by using specialized components that) Tj T* 0 Tw .56114 Tw (respond to lifecycle events, call tools, retain context, and hand work across defined stages. The gateway) Tj T* 0 Tw 1.385225 Tw (assigns runs and sessions; runtime steps record when an agent is called, finished, or fails. The graph) Tj T* 0 Tw (routes records through workflow nodes and human decision gates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 549.3622 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (4.2 Tools, Skills, and Memory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 483.3622 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 50.5 Tm /F1 9.5 Tf 15 TL .133006 Tw (Each agent has an allow-list of tools. Tool calls travel through MCP rather than directly accessing arbitrary) Tj T* 0 Tw .530425 Tw (resources. Skills provide role-specific operating guidance, while session memory records run context and) Tj T* 0 Tw 1.363258 Tw (longer-term student memory supports relevant preferences and outcomes. Audit events are retained in) Tj T* 0 Tw (SQLite and a JSON Lines log, according to the repository documentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 458.3622 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (4.3 Safety and Governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 377.3622 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 65.5 Tm /F1 9.5 Tf 15 TL 1.143967 Tw (The design combines role checks, scoped tool access, prompt-injection and scam defenses, personally) Tj T* 0 Tw 2.9761 Tw (identifiable information masking, and human approval for consequential actions. Eligibility rules are) Tj T* 0 Tw 2.434931 Tw (deterministic and versioned. Evaluation is presented as a draft until an authorized person approves) Tj T* 0 Tw 2.193777 Tw (publication. These safeguards aim to make the system useful while keeping responsibility for official) Tj T* 0 Tw (decisions with designated people.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 74.0315 345.3622 cm
+q
+.078431 .176471 .305882 rg
+BT 1 0 0 1 0 5 Tm /F2 19 Tf 24 TL (5. Course Concepts Demonstrated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.0315 102.3622 cm
+q
+.078431 .176471 .305882 rg
+n 0 231 459.2126 -21 re f*
+1 1 1 rg
+n 0 210 459.2126 -21 re f*
+.917647 .94902 .968627 rg
+n 0 189 459.2126 -21 re f*
+1 1 1 rg
+n 0 168 459.2126 -21 re f*
+.917647 .94902 .968627 rg
+n 0 147 459.2126 -21 re f*
+1 1 1 rg
+n 0 126 459.2126 -21 re f*
+.917647 .94902 .968627 rg
+n 0 105 459.2126 -21 re f*
+1 1 1 rg
+n 0 84 459.2126 -21 re f*
+.917647 .94902 .968627 rg
+n 0 63 459.2126 -21 re f*
+1 1 1 rg
+n 0 42 459.2126 -21 re f*
+.917647 .94902 .968627 rg
+n 0 21 459.2126 -21 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 215 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Concept) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 215 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F2 8.2 Tf 11 TL (Project implementation) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 7 194 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Agent vs. chatbot) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 194 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Goal and plan loops with observation and iteration, plus tool-mediated work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 173 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Tool use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 173 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Function calling and MCP tools for records, documents, and external data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 152 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 152 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Reusable agent instructions loaded at runtime.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 131 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Memory and retrieval) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 131 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Run-scoped context and longer-lived student memory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 110 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Agent runtime) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 110 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Gateway, run identifiers, timed steps, and event logging.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 89 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Workflow graphs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 89 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Lifecycle routing through agent nodes and human gates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 68 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Parallel agents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 68 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Four reviewers contribute to an expert-panel response.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 47 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Research) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 47 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Evidence collection and synthesis for company briefings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 26 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Operations and policy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 26 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Health diagnosis and versioned, tested policy proposals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 5 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 5 cm
+q
+.14902 .203922 .278431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Permissions, human review, safeguards, audit, and rollback support.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.796078 .843137 .886275 RG
+.3 w
+n 0 231 m 459.2126 231 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 231 l S
+n 459.2126 0 m 459.2126 231 l S
+n 0 210 m 459.2126 210 l S
+n 0 189 m 459.2126 189 l S
+n 0 168 m 459.2126 168 l S
+n 0 147 m 459.2126 147 l S
+n 0 126 m 459.2126 126 l S
+n 0 105 m 459.2126 105 l S
+n 0 84 m 459.2126 84 l S
+n 0 63 m 459.2126 63 l S
+n 0 42 m 459.2126 42 l S
+n 0 21 m 459.2126 21 l S
+n 119.0551 0 m 119.0551 231 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+BT
+/F1-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 76 315 Tm
+(Concept) Tj
+T*
+ET
+BT
+1 0 0 1 190 315 Tm
+(Project implementation) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+0.078431 0.176471 0.305882 rg
+n
+68 307 465 22 re
+f*
+1 1 1 rg
+BT
+/F1-1 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 76 314 Tm
+(Concept) Tj
+T*
+ET
+BT
+1 0 0 1 190 314 Tm
+(Project implementation) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/Annots [ 23 0 R ]
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Nownev)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 233.4985 120.9622 345.437 132.3622 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2561
+>>
+stream
+Gatm<?$"cA&Ua>VQq(FS"Gnd`]R*OunjU*qXco16,un#>E(R,7@,]'k19^9/e$BF<KK^U5EN)R+"RPPM:Nt+b+jKKi]&.d%o[agPhhDh7[+\EF":;2ZUPmZlcYnD(P0ME$"cGe`V_J@u0[?DWY((^qdsMbOi\73>&VQ(]E^:G:;&2Pk&g%$Rd`4<FrX7S3)9i!6K/f>J=\(j,T92TWZ6Zd:qnkV9iJ]b7IUPdJMG>e]Y:d!8YHH3sIjOq%dJ8QI>^sDZX6U:G^GoTJou5I:ldZNQqF%C!n3KS!V,7q;bBZ)$00Qo@G9f?,S0e1$/<,7+*_!l%+dlo",Y$Ep++?=FJ^/nXB9_uDe$fpC9?oV>TUs@0>05?qH:O^dd*K#GF_cu@9%TglSdK#BQlQ>c5&D(F"+t-m87t3aNj&L21@RrN[RJ-VEY_L`c/N<QT0<jnUQ\\$J_Sl(mk/8ugYAa8C_7fSmC$!%,[#%4<_r3N(?&3H.4\!?jC4^pNJB;bpi8IXhg[K:=A]:I^;&nrOHWVS;msJB[G.iIAMAl2B,l:1c/WITo@K1ccFZ^"((h_$9%,0DR9K%#(;c74,#,4DNji^pPrgBi3HAh/l2?BY*%'cA\Yi?oE0?>'(Hr"(iKSLTCud&,f^!Vn_ISC!Voq8[7b"`^i`d_tG`u/8P8F#FQ'+$pD#J6Ve3]$*g#[q3Dd(Z&^s+-`Uq@DAC)Jo;]K)'S=`*jhAE[M&Bb\OC/QCI0NVefLXY#C<Q2')7^jA'U8K3`:S]"s6X(g$#Am2s\_5Hd%$XVt!3$S<Be9RL:8%&%AN*mpiEkZW51"dJ?5KOn%Pc^gX!Zri"'kOokq$l-pTS]=>e@SKBjJ:3C<8n,T#;BF8DM9RZ\jQuXEJ&?T'f""n0QAI]YpO86apkIa+`8#+]3e?<r)N#ePRbZZ=h4qMl6mALm8+RDXud,^f1D)@A2JITaCL<=QGcqgBk6k<K#FUQ[VMhLZLJk^S;3'6>ZZ8VBG=6#d$q+X,sg:.VofHUj`5:!Xs'Brk8P0T4'XfZ5qjY6\WPOh.R<EfaY-\`)VL]f>r%q+WR+qmciD0+:iAH9O:L0o]PG)9&1DKdED>/)>q'RZVl/1jZq<h(pA]DP(=6t,kIY8Q:2`5KJc#Jqk2sWZP&0[]$su-CnDud#H09;Y5E`Kr\8P570Do^)<">1n?"&0:hOu:3h[lfuP:U]g8s.:`QQ'XBYP%c"NCk,n8[q;iGBC"RXYLV`i[f7'nuf@sJ1cRkJ(!Z)=pq[1>i//+1A=IpJ(2slJm8e[:o1J3ppsmq4^#co4jUuJlK+9Q(`(KOj^]`S*5M3FKZsm;ODS'!_Dk.L'&JMOEs;1_b#\8I;lHCmGFD,%\J$S&DnV4m'r"U28%f._Gma$Y48.nCge]QjU'%HY/"-Y5`QNSsTofF!pHYqTNNd@2qr$NL^(S#P>n'*2D5luQi_;@;hXAsYHI"\53_)-)a*Lgqj-qB4K:oZG7&-I34TQ5(nWA(_V0=+\NYUq)H!,5\RXTmU5=>(,Iu!O!J,0_mPd2:G[KYT$\tZW'FmXJBlOA2m"+j&0Q#/_i'I,SDO\_?mI6Q&"b)NZ8T(W*LP'\QFb;M,[G2Qccm;m+Q3)e!98X0:LcM)bMG80A2.^rXM\md$H3QIpI)V^Xn-V$FQ?n^[a09bj1bDS$5.nuT[,NV@D$50CD_20%D=k#Q5nSLdTL=]PWd5Nb3W<]Q(@g?t!Gss>gpq:aZXI*?iprEQ&E=J>_cIn)cQEFF6R:1#ZhM30])1AtPm4346Qf"pM/HRubF^B7YCRtm-oG]-bq/\4o8K,kNETsc@Qr\s>Yes!7W!WtYhD$O$pcRX\rL,T[jj*`d^1'@%$GAr(GfXk@:#-Sb\MqZ]0&cO>jRJn4c-ahBG\C_*:@*pjk<8Nr>ZY]@Hd1b+3VS1js2;H#.&c^mq:,U2:q9u8#"P*%?0gXcp-t>FNs[>(rM-&N%-(c&*$U)@Fbfd!Ic1l3fj=+@QF:ke?ng"G?S/$"2ktY7e8aE2GA-NV%4FDZp+TV,6+[Ap1G.bu.Q<Xo5V0MKi,Wd1kZfsHjWdVCF<*9B]0_daJR%YYoqrl@0g5.m4n:7,lI_41TU#==n30L:'j<M9Cs++LXS0@,T`0R$]W@GJqL4(T[D]BmCYapDW^liZ(\Wc\K\nNj52/gd#U[_Gocm$6NZX,ABI<)<-f"XfB.dtqjS=T<1Q68?iNHlf5hCeQXfkP_0&84jpa6*nK($&$\594u3b@(SeWon1_+sktaI`4!!q)HuZ3([s0:+RjSpa<fTG@dS4A3Tff=n/=K)=i5W[[%<A:n<c2n)"8IO!fY6VP0N9V6PGn_B!CZ_q/<4LYU+2T:kQ7\tE?AX,3(jP7*..o4*88Lk7'q5UNNLW4%Dnu!7BTcYlW?MXBi=0Q'hUcm8F^S^M8./UJkbu33"[G@lo^%Ye#nAoGBiq)tjk!pq+-=OEW+AL;;EoH^@XDQZ5Vpc[9eZApmHMUt*eah:pHp3'^,Wn.^1J_<V+#!*&GXSaNj3/nKW%R_I.n$N'%!1Zm0Frc42ua&U+AB?~>
+endstream
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000411 00000 n 
+0000000498 00000 n 
+0000000547 00000 n 
+0000000807 00000 n 
+0000000999 00000 n 
+0000003835 00000 n 
+0000003942 00000 n 
+0000004049 00000 n 
+0000004161 00000 n 
+0000004267 00000 n 
+0000004469 00000 n 
+0000006663 00000 n 
+0000006716 00000 n 
+0000006986 00000 n 
+0000013574 00000 n 
+0000013682 00000 n 
+0000013790 00000 n 
+0000014060 00000 n 
+0000022045 00000 n 
+0000022153 00000 n 
+0000022261 00000 n 
+0000022482 00000 n 
+0000022674 00000 n 
+trailer
+<<
+/Size 25
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+25328
+%%EOF
